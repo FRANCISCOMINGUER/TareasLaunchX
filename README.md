@@ -1,2 +1,2 @@
 # TareasLaunchX
-Repositrio de las KATAs 
+Repositrio para subir las Katas de cada modulo
